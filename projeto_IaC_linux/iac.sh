@@ -1,17 +1,17 @@
 #!/bin/bash
 
-echo " Criando os diretórios ! "
+echo "Criando os diretórios ! "
 
 mkdir /publico
-mkdir /secretarios
 mkdir /administracao
 mkdir /vendas
+mkdir /secretarios
 
-echo "Criando os grupos para os usuários ! "
+echo "Criando grupos para os usuários ! "
 
 groupadd GRP_ADMIN
-groupadd GRP_SEC
 groupadd GRP_VENDAS
+groupadd GRP_SEC
 
 echo "Criando os usuários ! "
 
@@ -32,8 +32,6 @@ echo "Definindo permissões para os diretórios ! "
 chown root:GRP_ADMIN /administracao
 chown root:GRP_VENDAS /vendas
 chown root:GRP_SEC /secretarios
-
-echo "Definindo permissões dos grupos ! "
 
 chmod 770 /administracao
 chmod 770 /vendas
