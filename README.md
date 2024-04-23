@@ -4,10 +4,10 @@
 
 ### - Funcionalidades
 
-1. Criação de diretórios
-2. Criação de grupos para usuários
-3. Criação dos usuários
-4. Definição de permissões aos diretórios
+1. Criação de diretórios 📁
+2. Criação de grupos para usuários 🧍
+3. Criação dos usuários 🚨
+4. Definição de permissões aos diretórios ⚠️
 
 # Reconhecimentos
-### Agradeço a [DIO](https://www.dio.me/) pelo curso que inspirou o desenvolvimento deste projeto
+### Agradeço a [DIO](https://www.dio.me/) pelo curso que inspirou o desenvolvimento deste projeto !
