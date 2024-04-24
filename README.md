@@ -10,4 +10,4 @@
 4. Definição de permissões aos diretórios ⚠️
 
 # Reconhecimentos
-### Agradeço a [DIO](https://www.dio.me/) pelo curso que inspirou o desenvolvimento deste projeto !
+### O curso pode ser encontrado na plataforma da [DIO](https://www.dio.me/) Curso; [Linux Fundamentals](https://web.dio.me/track/formacao-linux-fundamentals)
